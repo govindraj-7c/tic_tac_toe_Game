@@ -16,3 +16,10 @@ Check out the live demo: https://tttg-project.netlify.app/
 - **CSS**: Styling the game board and responsive design.
 - **JavaScript**: Game logic, player turns, win conditions, and game reset.
 
+
+## Game Rules
+- The game is played on a 3x3 grid.
+- Player 1 is "X" and Player 2 is "O". Players take turns placing their marks in empty squares.
+- The first player to align three marks (horizontally, vertically, or diagonally) wins.
+- If all 9 squares are filled without a winner, the game ends in a draw.
+
